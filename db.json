@@ -1,0 +1,58 @@
+{
+    "todos": [
+        {
+            "title": "learn-html-from-scratch",
+            "status": "completed",
+            "id": 1
+        },
+        {
+            "title": "learn css",
+            "status": "completed",
+            "id": 2
+        },
+        {
+            "title": "javascript",
+            "status": "Not-Completed",
+            "id": 3
+        },
+        {
+            "title": "react",
+            "status": "Not-Completed",
+            "id": 4
+        },
+        {
+            "title": "typescript",
+            "status": "Not-Completed",
+            "id": 6
+        },
+        {
+            "title": "learn typescript",
+            "status": "Not-Completed",
+            "id": 7
+        },
+        {
+            "title": "learn javascript",
+            "status": "Not-Completed",
+            "id": 8
+        },
+        {
+            "title": "learn new things",
+            "status": "Not-Completed",
+            "id": 10
+        }
+    ],
+    "users": [
+        {
+            "name": "John Neil",
+            "email": "john.neil@gmail.com",
+            "password": "John@123",
+            "id": 1
+        },
+        {
+            "name": "Steve Smith",
+            "email": "steve.smith@gmail.com",
+            "password": "Steve@123",
+            "id": 2
+        }
+    ]
+}
